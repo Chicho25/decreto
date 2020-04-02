@@ -48,7 +48,7 @@
           <input id="check" type="checkbox" value="" class="form-control" style="width:40px;" >
         </div>
         <div class="form-group">
-          <input id="boton" disabled type="submit" name="save" value="Confirmar" class="btn btn-primary">
+          <input id="boton" type="submit" name="save" value="Confirmar" class="btn btn-primary">
         </div>
       </form>
     </div>
